@@ -1,7 +1,6 @@
 import os
 import shutil
 import sys
-import re
 import json
 
 def clone_skill(source_name, target_name, changes):
